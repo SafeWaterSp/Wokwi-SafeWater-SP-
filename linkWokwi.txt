@@ -1,7 +1,5 @@
+Vídeo Youtube:
+https://youtu.be/z_S1EuTXUMY?si=J6dFxoSlhnXIRkX2
+
+Link Wokwi:
 https://wokwi.com/projects/433061230795558913
-
-
-Observação:
-Sempre que alterar alguma coisa no Wokwi substitua o link acima pelo da aleração 
-
-Não esqueça de commitar 
